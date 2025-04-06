@@ -33,7 +33,7 @@ To run this presentation locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone [repository-url]
+git clone https://github.com/hesam-javadi/ThermalManagementPresentation.git
 
 # Navigate to the project directory
 cd cpu-thermal-presentation
@@ -195,10 +195,6 @@ cpu-thermal-presentation/
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to submit pull requests or open issues to improve the presentation.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
