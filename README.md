@@ -2,7 +2,7 @@
 
 A modern, interactive presentation on CPU and GPU thermal management built with React, TypeScript, and styled-components. This presentation features retro-futuristic UI design with interactive 3D models, data visualizations, and smooth transitions.
 
-![CPU Thermal Management Presentation](src/assets/preview.png)
+![CPU Thermal Management Presentation](cpu-thermal-presentation/src/assets/preview.png)
 
 ## 🚀 Features
 
